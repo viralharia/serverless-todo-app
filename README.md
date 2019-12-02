@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Serverless TODO
 
 To implement this project, you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all comments starting with the `TODO:` in the code to find the placeholders that you need to implement.
@@ -269,3 +270,6 @@ Right click on the imported collection to set variables for the collection:
 Provide variables for the collection (similarly to how this was done in the course):
 
 ![Alt text](images/import-collection-5.png?raw=true "Image 5")
+=======
+# serverless-todo-app
+>>>>>>> 0b0f5e3d6d3a121ec426201ac0c0c6cdf42f29ab
